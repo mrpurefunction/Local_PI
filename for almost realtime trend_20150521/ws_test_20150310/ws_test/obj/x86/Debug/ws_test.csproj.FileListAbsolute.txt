@@ -197,3 +197,6 @@ E:\Env_SQL_XLS\DataSvc\DataSvc_local_His\for almost realtime trend_20150521\ws_t
 E:\Env_SQL_XLS\DataSvc\DataSvc_local_His\for almost realtime trend_20150521\ws_test_20150310\ws_test\obj\x86\Debug\ws_test.csproj.GenerateResource.Cache
 E:\Env_SQL_XLS\DataSvc\DataSvc_local_His\for almost realtime trend_20150521\ws_test_20150310\ws_test\obj\x86\Debug\Local_His_PI_1Hour.exe
 E:\Env_SQL_XLS\DataSvc\DataSvc_local_His\for almost realtime trend_20150521\ws_test_20150310\ws_test\obj\x86\Debug\Local_His_PI_1Hour.pdb
+C:\Users\zhefeng\Documents\Projects\ZHIQI\YueQing\Local_PI\for almost realtime trend_20150521\ws_test_20150310\ws_test\bin\Debug\Local_His_PI_1Hour.exe.config
+C:\Users\zhefeng\Documents\Projects\ZHIQI\YueQing\Local_PI\for almost realtime trend_20150521\ws_test_20150310\ws_test\obj\x86\Debug\Local_His_PI_1Hour.exe
+C:\Users\zhefeng\Documents\Projects\ZHIQI\YueQing\Local_PI\for almost realtime trend_20150521\ws_test_20150310\ws_test\obj\x86\Debug\Local_His_PI_1Hour.pdb

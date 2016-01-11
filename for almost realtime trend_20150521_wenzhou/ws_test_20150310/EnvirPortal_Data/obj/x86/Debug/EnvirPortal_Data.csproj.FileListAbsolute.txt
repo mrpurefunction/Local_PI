@@ -143,3 +143,6 @@ C:\Users\zhefeng\Documents\Projects\ZHIQI\WenZhou\for almost realtime trend_2015
 C:\Users\zhefeng\Documents\Projects\ZHIQI\WenZhou\for almost realtime trend_20150521\ws_test_20150310\EnvirPortal_Data\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
 C:\Users\zhefeng\Documents\Projects\ZHIQI\WenZhou\for almost realtime trend_20150521\ws_test_20150310\EnvirPortal_Data\obj\x86\Debug\EnvirPortal_Data.exe
 C:\Users\zhefeng\Documents\Projects\ZHIQI\WenZhou\for almost realtime trend_20150521\ws_test_20150310\EnvirPortal_Data\obj\x86\Debug\EnvirPortal_Data.pdb
+C:\Users\zhefeng\Documents\Projects\ZHIQI\YueQing\Local_PI\for almost realtime trend_20150521_wenzhou\ws_test_20150310\EnvirPortal_Data\bin\Debug\EnvirPortal_Data.exe.config
+C:\Users\zhefeng\Documents\Projects\ZHIQI\YueQing\Local_PI\for almost realtime trend_20150521_wenzhou\ws_test_20150310\EnvirPortal_Data\obj\x86\Debug\EnvirPortal_Data.exe
+C:\Users\zhefeng\Documents\Projects\ZHIQI\YueQing\Local_PI\for almost realtime trend_20150521_wenzhou\ws_test_20150310\EnvirPortal_Data\obj\x86\Debug\EnvirPortal_Data.pdb
